@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>26.11.2025 - 12:11:55</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>10</Assemblies>
+    <Classes>65</Classes>
+    <Files>57</Files>
+    <Coveredlines>179</Coveredlines>
+    <Uncoveredlines>4108</Uncoveredlines>
+    <Coverablelines>4287</Coverablelines>
+    <Totallines>9626</Totallines>
+    <Linecoverage>4.1</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>25</Coveredmethods>
+    <Totalmethods>546</Totalmethods>
+    <Methodcoverage>4.5</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="15" coverage="0" coveredlines="0" coverablelines="751" totallines="1731" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="123" methodcoverage="0">
+      <Class name="Unity.VRTemplate.AnchorVisuals" coverage="0" coveredlines="0" coverablelines="48" totallines="108" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.BezierCurve" coverage="0" coveredlines="0" coverablelines="88" totallines="202" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="9" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.BooleanToggleVisualsController" coverage="0" coveredlines="0" coverablelines="44" totallines="91" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.Callout" coverage="0" coveredlines="0" coverablelines="52" totallines="99" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.CalloutGazeController" coverage="0" coveredlines="0" coverablelines="34" totallines="80" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.DestroyObject" coverage="0" coveredlines="0" coverablelines="4" totallines="19" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.HandSubsystemManager" coverage="0" coveredlines="0" coverablelines="37" totallines="75" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.LaunchProjectile" coverage="0" coveredlines="0" coverablelines="12" totallines="36" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.RayAttachModifier" coverage="0" coveredlines="0" coverablelines="19" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.Rotator" coverage="0" coveredlines="0" coverablelines="3" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.StepManager" coverage="0" coveredlines="0" coverablelines="8" totallines="39" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.VideoPlayerRenderTexture" coverage="0" coveredlines="0" coverablelines="10" totallines="40" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.VideoTimeScrubControl" coverage="0" coveredlines="0" coverablelines="101" totallines="192" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="13" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.XRKnob" coverage="0" coveredlines="0" coverablelines="209" totallines="441" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="33" methodcoverage="0" />
+      <Class name="Unity.VRTemplate.XRPokeFollowAffordanceFill" coverage="0" coveredlines="0" coverablelines="82" totallines="246" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="24" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="GameAssembly" classes="2" coverage="75.5" coveredlines="71" coverablelines="94" totallines="185" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="15" totalmethods="17" methodcoverage="88.2">
+      <Class name="Pepegun" coverage="61" coveredlines="36" coverablelines="59" totallines="119" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="7" methodcoverage="71.4" />
+      <Class name="PepegunBarrel" coverage="100" coveredlines="35" coverablelines="35" totallines="66" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="10" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="108" coverablelines="108" totallines="301" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="10" methodcoverage="100">
+      <Class name="TestSuite" coverage="100" coveredlines="108" coverablelines="108" totallines="301" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="10" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="Unity.XR.Hands.Samples.VisualizerSample" classes="8" coverage="0" coveredlines="0" coverablelines="539" totallines="2027" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="50" methodcoverage="0">
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.HandProcessor" coverage="0" coveredlines="0" coverablelines="82" totallines="171" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="10" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.HandVisualizer" coverage="0" coveredlines="0" coverablelines="323" totallines="608" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="27" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.JointVisualizer" coverage="0" coveredlines="0" coverablelines="11" totallines="38" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.MaterialPipelineHandler" coverage="0" coveredlines="0" coverablelines="36" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.MaterialPipelineHandlerEditor" coverage="0" coveredlines="0" coverablelines="11" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.RenderPipelineValidation" coverage="0" coveredlines="0" coverablelines="16" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.ShaderContainer" coverage="0" coveredlines="0" coverablelines="4" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Hands.Samples.VisualizerSample.ShaderContainerDrawer" coverage="0" coveredlines="0" coverablelines="56" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.Hands" classes="14" coverage="0" coveredlines="0" coverablelines="609" totallines="1677" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="103" methodcoverage="0">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.HandsOneEuroFilterPostProcessor" coverage="0" coveredlines="0" coverablelines="68" totallines="141" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.HideObjectWhenInteractorBlocked" coverage="0" coveredlines="0" coverablelines="15" totallines="49" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.LocalPositionOffsetAffordanceReceiver" coverage="0" coveredlines="0" coverablelines="28" totallines="73" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.MetaSystemGestureDetector" coverage="0" coveredlines="0" coverablelines="86" totallines="263" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="17" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ObjectResetPlane" coverage="0" coveredlines="0" coverablelines="50" totallines="96" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.OneEuroFilterVector3" coverage="0" coveredlines="0" coverablelines="27" totallines="126" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.PinchPointFollow" coverage="0" coveredlines="0" coverablelines="75" totallines="185" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.PokeBlendShapeAnimator" coverage="0" coveredlines="0" coverablelines="44" totallines="107" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.PokeGestureDetector" coverage="0" coveredlines="0" coverablelines="75" totallines="200" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="11" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ReleaseThresholdButtonReader" coverage="0" coveredlines="0" coverablelines="40" totallines="133" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ToggleGameObject" coverage="0" coveredlines="0" coverablelines="11" totallines="47" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.TransformSync" coverage="0" coveredlines="0" coverablelines="41" totallines="103" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ValueDerivedButtonReader" coverage="0" coveredlines="0" coverablelines="40" totallines="121" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.Hands.Vector3ScaleAffordanceReceiver" coverage="0" coveredlines="0" coverablelines="9" totallines="33" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor" classes="1" coverage="0" coveredlines="0" coverablelines="120" totallines="236" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0">
+      <Class name="UnityEditor.XR.Interaction.Toolkit.Samples.Hands.Editor.HandsSampleProjectValidation" coverage="0" coveredlines="0" coverablelines="120" totallines="236" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator" classes="2" coverage="0" coveredlines="0" coverablelines="869" totallines="1581" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="41" methodcoverage="0">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.InteractionSimulator.XRInteractionSimulatorInputFeedbackUI" coverage="0" coveredlines="0" coverablelines="496" totallines="888" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="22" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.InteractionSimulator.XRInteractionSimulatorPlayModeMenu" coverage="0" coveredlines="0" coverablelines="373" totallines="693" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="19" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor" classes="1" coverage="0" coveredlines="0" coverablelines="57" totallines="113" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0">
+      <Class name="UnityEditor.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.XRInteractionSimulatorProjectValidation" coverage="0" coveredlines="0" coverablelines="57" totallines="113" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets" classes="20" coverage="0" coveredlines="0" coverablelines="1055" totallines="3516" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="180" methodcoverage="0">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ClimbTeleportDestinationIndicator" coverage="0" coveredlines="0" coverablelines="66" totallines="143" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="13" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ControllerAnimator" coverage="0" coveredlines="0" coverablelines="39" totallines="84" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ControllerInputActionManager" coverage="0" coveredlines="0" coverablelines="286" totallines="530" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="32" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DestroySelf" coverage="0" coveredlines="0" coverablelines="6" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider" coverage="0" coveredlines="0" coverablelines="62" totallines="190" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="13" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.GazeInputManager" coverage="0" coveredlines="0" coverablelines="45" totallines="95" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.IncrementUIText" coverage="0" coveredlines="0" coverablelines="11" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.MaterialPipelineHandler" coverage="0" coveredlines="0" coverablelines="36" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.MaterialPipelineHandlerEditor" coverage="0" coveredlines="0" coverablelines="11" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.MultiAnchorTeleportReticle" coverage="0" coveredlines="0" coverablelines="74" totallines="164" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ObjectSpawner" coverage="0" coveredlines="0" coverablelines="72" totallines="237" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="24" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.PermissionsManager" coverage="0" coveredlines="0" coverablelines="36" totallines="162" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RenderPipelineValidation" coverage="0" coveredlines="0" coverablelines="16" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RotationAxisLockGrabTransformer" coverage="0" coveredlines="0" coverablelines="16" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ShaderContainer" coverage="0" coveredlines="0" coverablelines="4" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ShaderContainerDrawer" coverage="0" coveredlines="0" coverablelines="56" totallines="242" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.TeleportVolumeAnchorAffordanceStateLink" coverage="0" coveredlines="0" coverablelines="37" totallines="97" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ToggleColorToggler" coverage="0" coveredlines="0" coverablelines="20" totallines="70" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="9" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPlatformUnderstanding" coverage="0" coveredlines="0" coverablelines="39" totallines="117" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance" coverage="0" coveredlines="0" coverablelines="123" totallines="298" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="26" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor" classes="1" coverage="0" coveredlines="0" coverablelines="85" totallines="195" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0">
+      <Class name="UnityEditor.XR.Interaction.Toolkit.Samples.StarterAssetsSampleProjectValidation" coverage="0" coveredlines="0" coverablelines="85" totallines="195" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
